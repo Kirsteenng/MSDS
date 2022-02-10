@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 10 11:57:06 2022
-
-@author: Kirsteenng
-"""
 
 # Project Goal and Background
 This project is to develop obfuscation methods where we are required to replace a set of pre-identified words in the text data 
