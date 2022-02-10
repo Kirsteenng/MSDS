@@ -26,4 +26,4 @@ based on gloVe embedding vectors.
 1. dataset.csv
 2. male.txt
 3. female.txt
-4. glove.6B.50d.tx #download from [here](https://nlp.stanford.edu/projects/glove/)) 
+4. glove.6B.50d.tx (download from [here](https://nlp.stanford.edu/projects/glove/)) 
