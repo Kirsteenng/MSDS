@@ -116,10 +116,10 @@ def extract_replace_lottery(data:pd.DataFrame,female:dict,male:dict,gender_dict)
 
 
 # Paths
-male_path = '/Users/Kirsteenng_1/Desktop/UW courses/MSDS/Winter 2022/CSE 517/Assignment 5/A5/male.txt'
-female_path = '/Users/Kirsteenng_1/Desktop/UW courses/MSDS/Winter 2022/CSE 517/Assignment 5/A5/female.txt'
-data_path = '/Users/Kirsteenng_1/Desktop/UW courses/MSDS/Winter 2022/CSE 517/Assignment 5/A5/dataset.csv'
-embedding_path = '/Users/Kirsteenng_1/Desktop/UW courses/MSDS/Winter 2022/CSE 517/Assignment 4/glove/glove.6B.50d.txt'
+male_path = './male.txt'
+female_path = './female.txt'
+data_path = './dataset.csv'
+embedding_path = './glove/glove.6B.50d.txt'
 
 male_set = set(openfile(male_path))
 fm_set = set(openfile(female_path))
